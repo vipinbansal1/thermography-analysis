@@ -1,0 +1,7 @@
+streamlit
+gradio_client
+pillow
+opencv-python
+langgraph
+matplotlib
+google-generativeai
